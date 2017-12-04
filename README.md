@@ -11,7 +11,7 @@ The first community open source cookie.
 - 1 huevo mediano
 - 1 yema
 - 275g de harina 0000
--
+
 
 ## Preparation:
 #TODO
